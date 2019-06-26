@@ -33,7 +33,7 @@
 		max-width: 30rem;
 	}*/
 .card-body {
-		min-height: 16rem;
+		min-height: 12rem;
 	}
 .hours {
 		font-size: .85rem;
@@ -44,3 +44,6 @@
 .jjb-nav {
 		font-size: .65rem;
 	}
+.address {
+	font-size: .85rem;
+}
